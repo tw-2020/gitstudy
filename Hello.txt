@@ -2,4 +2,8 @@ hello world!
 第一次修改。
 第二次修改。
 
+<<<<<<< HEAD
 hotfix上做出的添加。
+=======
+真正在hot-fix做的添加
+>>>>>>> hot-fix
